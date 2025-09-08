@@ -1,1 +1,1 @@
-# grafana
+# monitoring-stack
